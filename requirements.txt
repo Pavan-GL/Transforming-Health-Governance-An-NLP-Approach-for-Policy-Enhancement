@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+gensim
+transformers[torch] >= 4.26.0
+accelerate >= 0.26.0
+torch
+pandas

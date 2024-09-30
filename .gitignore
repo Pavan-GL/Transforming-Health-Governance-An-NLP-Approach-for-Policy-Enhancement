@@ -1,0 +1,5 @@
+venv/
+logs/
+data/sentiment_model/model.safetensors
+results/checkpoint-7500/model.safetensors
+results/checkpoint-7500/optimizer.pt
